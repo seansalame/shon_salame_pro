@@ -1,0 +1,586 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8"/>
+<title>HTML – ויקיפדיה</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","ינואר","פברואר","מרץ","אפריל","מאי","יוני","יולי","אוגוסט","ספטמבר","אוקטובר","נובמבר","דצמבר"],"wgRequestId":"b30f730c-5613-4ba3-8888-926e61bbc54e","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"HTML","wgTitle":"HTML","wgCurRevisionId":32645952,"wgRevisionId":32645952,"wgArticleId":472516,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ויקיפדיה: ערכים הדורשים מקורות","אתר רשמי – עודף אתרים רשמיים","ערכים עם תבנית בריטניקה","ויקיפדיה: ערכים עם מזהה J9U","ויקיפדיה: ערכים עם מזהה BNE",
+"ויקיפדיה: ערכים עם מזהה BNF","ויקיפדיה: ערכים עם מזהה GND","ויקיפדיה: ערכים עם מזהה LCCN","HTML","תקנים בתקשורת מחשבים","פיתוח יישומי ווב","עיצוב אתרי אינטרנט"],"wgPageContentLanguage":"he","wgPageContentModel":"wikitext","wgRelevantPageName":"HTML","wgRelevantArticleId":472516,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"he","pageLanguageDir":"rtl","pageVariantFallbacks":"he"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgULSCurrentAutonym":"עברית","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":
+"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q8811","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.ExternalLinkIcon":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.relatedArticles.styles":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","skins.vector.es6","ext.gadget.EditToolbar","ext.gadget.TemplateParamWizard",
+"ext.gadget.Summarieslist","ext.gadget.refsToLeft","ext.gadget.Wdsearch","ext.gadget.catSexSelector","ext.gadget.feedback","ext.gadget.wikibugs","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=he&amp;modules=ext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.relatedArticles.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022"/>
+<script async="" src="/w/load.php?lang=he&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=he&amp;modules=ext.gadget.ExternalLinkIcon&amp;only=styles&amp;skin=vector-2022"/>
+<link rel="stylesheet" href="/w/load.php?lang=he&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022"/>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/1200px-HTML.svg.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1398"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/800px-HTML.svg.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="932"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/640px-HTML.svg.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="746"/>
+<meta property="og:title" content="HTML – ויקיפדיה"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//he.m.wikipedia.org/wiki/HTML"/>
+<link rel="alternate" type="application/x-wiki" title="עריכה" href="/w/index.php?title=HTML&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ויקיפדיה"/>
+<link rel="EditURI" type="application/rsd+xml" href="//he.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://he.wikipedia.org/wiki/HTML"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki rtl sitedir-rtl mw-hide-empty-elt ns-0 ns-subject mw-editable page-HTML rootpage-HTML skin-vector-2022 action-view"><div class="mw-page-container">
+	<span id="top-page"></span>
+	<a class="mw-jump-link" href="#content">לדלג לתוכן</a>
+	<div class="mw-page-container-inner ">
+
+<input
+	type="checkbox"
+	id="mw-sidebar-checkbox"
+	class="mw-checkbox-hack-checkbox"
+	checked>
+
+<header class="mw-header">
+	<label
+		id="mw-sidebar-button"
+		class="mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element"
+		for="mw-sidebar-checkbox"
+		role="button"
+		aria-controls="mw-panel"
+		data-event-name="ui.sidebar"
+		tabindex="0"
+		title="תפריט ראשי">
+		<span>שינוי מצב סרגל צד</span>
+	</label>
+	
+<a href="/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/mobile/copyright/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="ויקיפדיה"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-he.svg" style="width: 6.3125em; height: 1.625em;">
+		<img class="mw-logo-tagline"
+			alt="האנציקלופדיה החופשית"
+			src="/static/images/mobile/copyright/wikipedia-tagline-he.svg" width="111" height="11" style="width: 6.9375em; height: 0.6875em;">
+	</span>
+</a>
+
+	
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="חיפוש בוויקיפדיה" aria-label="חיפוש בוויקיפדיה" autocapitalize="sentences" title="‏חיפוש בוויקיפדיה‏ [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="מיוחד:חיפוש"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="חיפוש טקסט זה בדפים" value="חיפוש" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="מעבר לדף בשם הזה בדיוק, אם הוא קיים" value="לערך" />
+			</div>
+		</form>
+	</div>
+	<a href="/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9"
+	
+		
+		
+		
+		class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search search-toggle">
+		<span>חיפוש</span>
+	</a>
+	
+</div>
+
+	<div class="vector-user-links">
+	
+<nav id="p-personal-more" class="mw-portlet mw-portlet-personal-more vector-menu vector-user-menu-more" aria-labelledby="p-personal-more-label" role="navigation" 
+	 >
+	<label id="p-personal-more-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">קישורי משתמש</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+	<li id="p-createaccount" class="user-links-collapsible-item">
+		<a href="/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&amp;returnto=HTML" class="mw-ui-button mw-ui-quiet" title="מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת"><span>יצירת חשבון</span></a>
+	</li>
+</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu vector-user-menu-logged-out vector-menu vector-menu-dropdown" aria-labelledby="p-personal-label" role="navigation"  title="אפשרויות נוספות"
+	 >
+	<input type="checkbox"
+		id="p-personal-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-personal"
+		class="vector-menu-checkbox" aria-labelledby="p-personal-label" />
+	<label id="p-personal-label" aria-label="" class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-ellipsis" aria-hidden="true">
+		<span class="vector-menu-heading-label">כלים אישיים</span>
+	</label>
+	<div class="vector-menu-content">
+		<div class="vector-user-menu-create-account"><a href="/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&amp;returnto=HTML" class="user-links-collapsible-item vector-menu-content-item mw-ui-icon mw-ui-icon-before" title="מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת"><span>יצירת חשבון</span></a></div>
+<div class="vector-user-menu-login"><a href="/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&amp;returnto=HTML" icon="logIn" class="vector-menu-content-item vector-menu-content-item-login mw-ui-icon mw-ui-icon-before mw-ui-icon-wikimedia-logIn" title="מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]" accesskey="o"><span>כניסה לחשבון</span></a></div>
+<div class="vector-user-menu-anon-editor">
+	<p>
+		דפים לעורכים שלא נכנסו לחשבון <a href="/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D" aria-label="מידע נוסף על עריכה"><span>מידע נוסף</span></a>
+	</p>
+</div>
+
+		<ul class="vector-menu-content-list"><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A9%D7%99%D7%97%D7%94_%D7%A9%D7%9C%D7%99" title="דיון על העריכות שנעשו מכתובת IP זו [n]" accesskey="n"><span>שיחה</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%AA%D7%A8%D7%95%D7%9E%D7%95%D7%AA_%D7%A9%D7%9C%D7%99" title="רשימת העריכות שנעשו מכתובת IP זו [y]" accesskey="y"><span>תרומות</span></a></li></ul>
+		
+	</div>
+</nav>
+
+</div>
+
+</header>
+
+<div class="mw-workspace-container">
+	<div id="mw-navigation">
+		<div id="mw-head">
+			<div class="mw-article-toolbar-container">
+				<div id="left-navigation">
+					
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<label id="p-namespaces-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">מרחבי שם</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/HTML" title="צפייה בדף התוכן [c]" accesskey="c"><span>ערך</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D7%A9%D7%99%D7%97%D7%94:HTML" rel="discussion" title="שיחה על דף התוכן [t]" accesskey="t"><span>שיחה</span></a></li></ul>
+		
+	</div>
+</nav>
+
+					
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<label id="p-variants-label" aria-label="שינוי הגוון השפה" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">עברית</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+				</div>
+				<div id="right-navigation">
+					
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<label id="p-views-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">צפיות</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/HTML"><span>קריאה</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=HTML&amp;action=edit" title="עריכת הדף הזה [e]" accesskey="e"><span>עריכת קוד מקור</span></a></li><li id="ca-ve-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=HTML&amp;veaction=edit" title="עריכת הדף הזה [v]" accesskey="v"><span>עריכה</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=HTML&amp;action=history" title="גרסאות קודמות של דף זה [h]" accesskey="h"><span>גרסאות קודמות</span></a></li></ul>
+		
+	</div>
+</nav>
+
+					
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="אפשרויות נוספות"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<label id="p-cactions-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">עוד</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+				</div>
+			</div>
+		</div>
+		
+
+<div id="mw-panel" class="mw-sidebar">
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<label id="p-navigation-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">ניווט</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99" title="ביקור בעמוד הראשי [z]" accesskey="z"><span>עמוד ראשי</span></a></li><li id="n-welcomepage" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D"><span>ברוכים הבאים</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D" icon="recentChanges" title="רשימת השינויים האחרונים באתר [r]" accesskey="r"><span>שינויים אחרונים</span></a></li><li id="n-featured-articles" class="mw-list-item"><a href="/wiki/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%A2%D7%A8%D7%9B%D7%99%D7%9D_%D7%9E%D7%95%D7%9E%D7%9C%D7%A6%D7%99%D7%9D"><span>ערכים מומלצים</span></a></li><li id="n-portals" class="mw-list-item"><a href="/wiki/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%A4%D7%95%D7%A8%D7%98%D7%9C%D7%99%D7%9D"><span>פורטלים</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99" icon="die" title="טעינת דף אקראי [x]" accesskey="x"><span>ערך אקראי</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_he.wikipedia.org&amp;uselang=he" title="תרומה"><span>תרומה לוויקיפדיה</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+	
+<nav id="p-community" class="mw-portlet mw-portlet-community vector-menu vector-menu-portal portal" aria-labelledby="p-community-label" role="navigation" 
+	 >
+	<label id="p-community-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">קהילה</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-portal" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94" title="אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"><span>שער הקהילה</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99" icon="help" title="המקום למצוא מידע"><span>עזרה</span></a></li><li id="n-Ask-q" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%99%D7%99%D7%A2%D7%95%D7%A5" title="דפים להתייעצות טכנית, לשונית וכו&#039;"><span>ייעוץ</span></a></li><li id="n-village-pump" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%9E%D7%96%D7%A0%D7%95%D7%9F" title="דיוני מדיניות ודיונים כלליים על ויקיפדיה"><span>מזנון</span></a></li><li id="n-Town-square" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%9B%D7%99%D7%9B%D7%A8_%D7%94%D7%A2%D7%99%D7%A8" title="המקום בוויקיפדיה לשתף את הקהילה בדעותיכם בנושאים שאינם קשורים ישירות לוויקיפדיה"><span>כיכר העיר</span></a></li><li id="n-news" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%97%D7%93%D7%A9%D7%95%D7%AA" title="חדשות בנושאי ויקיפדיה שונים"><span>חדשות</span></a></li><li id="n-notice-board" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%9C%D7%95%D7%97_%D7%9E%D7%95%D7%93%D7%A2%D7%95%D7%AA" title="לוח מודעות להפניית הוויקיפדים לדיונים בדפי שיחה שלא זכו לתשומת לב מספקת"><span>לוח מודעות</span></a></li><li id="n-contactUs" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%99%D7%A6%D7%99%D7%A8%D7%AA_%D7%A7%D7%A9%D7%A8" title="איך ליצור קשר עם ויקיפדיה לצורך תיקונים, בירורים או שאלות אחרות"><span>יצירת קשר</span></a></li><li id="n-guestbook" class="mw-list-item"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%A1%D7%A4%D7%A8_%D7%90%D7%95%D7%A8%D7%97%D7%99%D7%9D" title="שתפו אותנו במשוב כללי על התרשמותכם מוויקיפדיה ומידת שביעות רצונכם ממנה"><span>ספר אורחים</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<label id="p-tb-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">כלים</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/HTML" title="רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]" accesskey="j"><span>דפים המקושרים לכאן</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/HTML" rel="nofollow" title="השינויים האחרונים שבוצעו בדפים המקושרים מדף זה [k]" accesskey="k"><span>שינויים בדפים המקושרים</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D" title="רשימה של כל הדפים המיוחדים [q]" accesskey="q"><span>דפים מיוחדים</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=HTML&amp;oldid=32645952" title="קישור קבוע לגרסה זו של הדף"><span>קישור קבוע</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=HTML&amp;action=info" title="מידע נוסף על דף זה"><span>מידע על הדף</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&amp;page=HTML&amp;id=32645952&amp;wpFormIdentifier=titleform" title="מידע איך לצטט את הדף הזה"><span>ציטוט הדף הזה</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8811" title="קישור לפריט המשויך במאגר הנתונים [g]" accesskey="g"><span>פריט ויקינתונים</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">הדפסה/ייצוא</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A1%D7%A4%D7%A8&amp;bookcmd=book_creator&amp;referer=HTML"><span>יצירת ספר</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:DownloadAsPdf&amp;page=HTML&amp;action=show-download-screen"><span>הורדה כ־PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=HTML&amp;printable=yes" title="גרסה להדפסה של דף זה [p]" accesskey="p"><span>גרסה להדפסה</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<label id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading" aria-hidden="true">
+		<span class="vector-menu-heading-label">במיזמים אחרים</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/HTML" hreflang="en"><span>ויקישיתוף</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item"><a href="https://he.wikibooks.org/wiki/HTML" hreflang="he"><span>ויקיספר</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<div class="mw-sidebar-action">
+	<div class="mw-sidebar-action-item">
+		<h3 class="mw-sidebar-action-heading">שפות</h3>
+		<div class="mw-sidebar-action-content">
+		<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">קישורי השפה נמצאים בראש הדף מול כותרת הערך. <a href="#p-lang-btn">לעבור למעלה</a>.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+	</div>
+	<div class="mw-table-of-contents-container mw-sticky-header-element">
+		
+	</div>
+	<div class="mw-content-container">
+<main id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"></div>
+
+
+	<header class="mw-body-header">
+			
+<nav id="p-lang-btn" class="mw-portlet mw-portlet-lang vector-menu vector-menu-dropdown" aria-labelledby="p-lang-btn-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class=" mw-interlanguage-selector  vector-menu-checkbox" aria-labelledby="p-lang-btn-label" />
+	<label id="p-lang-btn-label" aria-label="מעבר לערך בשפה אחרת. זמין ב־129 שפות" class=" vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive" aria-hidden="true">
+		<span class="mw-ui-icon mw-ui-icon-wikimedia-language-progressive"></span><span class="vector-menu-heading-label">129 שפות</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/HTML" title="HTML – אנגלית" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/HTML" title="HTML – אפריקאנס" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/HTML" title="HTML – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/HTML" title="HTML – אראגונית" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ang mw-list-item"><a href="https://ang.wikipedia.org/wiki/Oferwrit_mearc_gereord" title="Oferwrit mearc gereord – אנגלית עתיקה" lang="ang" hreflang="ang" class="interlanguage-link-target"><span>Ænglisc</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A9_%D8%AA%D9%88%D8%B5%D9%8A%D9%81_%D8%A7%D9%84%D9%86%D8%B5_%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D9%82" title="لغة توصيف النص الفائق – ערבית" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%8F%E0%A6%87%E0%A6%9A_%E0%A6%9F%E0%A6%BF_%E0%A6%8F%E0%A6%AE_%E0%A6%8F%E0%A6%B2" title="এইচ টি এম এল – אסאמית" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/HTML" title="HTML – אסטורית" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/HTML" title="HTML – אזרית" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A7%DA%86%E2%80%8C%D8%AA%DB%8C%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%A7%D9%84" title="اچ‌تی‌ام‌ال – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/HTML" title="HTML – בשקירית" lang="ba" hreflang="ba" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-ban mw-list-item"><a href="https://ban.wikipedia.org/wiki/HTML" title="HTML – באלינזית" lang="ban" hreflang="ban" class="interlanguage-link-target"><span>Basa Bali</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/HTML" title="HTML – בווארית" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-bat-smg mw-list-item"><a href="https://bat-smg.wikipedia.org/wiki/HTML" title="HTML – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target"><span>Žemaitėška</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/HTML" title="HTML – בלארוסית" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/HTML" title="HTML – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/HTML" title="HTML – בולגרית" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A6%8F%E0%A6%B2" title="এইচটিএমএল – בנגלית" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/HTML" title="HTML – ברטונית" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/HTML" title="HTML – בוסנית" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Hyper_Text_Markup_Language" title="Hyper Text Markup Language – קטלאנית" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/HTML" title="HTML – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target"><span>Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/HTML" title="HTML – צ׳צ׳נית" lang="ce" hreflang="ce" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%DB%8C%DA%86_%D8%AA%DB%8C_%D8%A6%DB%8E%D9%85_%D8%A6%DB%8E%DA%B5" title="ئەیچ تی ئێم ئێڵ – כורדית סוראנית" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-co mw-list-item"><a href="https://co.wikipedia.org/wiki/HTML" title="HTML – קורסיקנית" lang="co" hreflang="co" class="interlanguage-link-target"><span>Corsu</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language – צ׳כית" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/HTML" title="HTML – צ׳ובאש" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/HTML" title="HTML – וולשית" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/HTML" title="HTML – דנית" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language – גרמנית" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-dsb mw-list-item"><a href="https://dsb.wikipedia.org/wiki/HTML" title="HTML – סורבית תחתית" lang="dsb" hreflang="dsb" class="interlanguage-link-target"><span>Dolnoserbski</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/HTML" title="HTML – יוונית" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/HTML" title="HTML – אספרנטו" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/HTML" title="HTML – ספרדית" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/HTML" title="HTML – אסטונית" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/HTML" title="HTML – בסקית" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DA%86%E2%80%8C%D8%AA%DB%8C%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%A7%D9%84" title="اچ‌تی‌ام‌ال – פרסית" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/HTML" title="HTML – פינית" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/HTML" title="HTML – פארואזית" lang="fo" hreflang="fo" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language – צרפתית" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/HTML" title="HTML – פריזית צפונית" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-fur mw-list-item"><a href="https://fur.wikipedia.org/wiki/HTML" title="HTML – פריולית" lang="fur" hreflang="fur" class="interlanguage-link-target"><span>Furlan</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/HTML" title="HTML – פריזית מערבית" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/HTML" title="HTML – אירית" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/HTML" title="HTML – גאלית סקוטית" lang="gd" hreflang="gd" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/HTML" title="HTML – גליציאנית" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-glk mw-list-item"><a href="https://glk.wikipedia.org/wiki/%D8%A6%DA%86.%D8%AA%D9%8A.%D8%A6%D9%85.%D8%A6%D9%84" title="ئچ.تي.ئم.ئل – Gilaki" lang="glk" hreflang="glk" class="interlanguage-link-target"><span>گیلکی</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wikipedia.org/wiki/HTML" title="HTML – גוג׳ארטי" lang="gu" hreflang="gu" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%9A%E0%A4%9F%E0%A5%80%E0%A4%8F%E0%A4%AE%E0%A4%8F%E0%A4%B2" title="एचटीएमएल – הינדי" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hif mw-list-item"><a href="https://hif.wikipedia.org/wiki/HTML" title="HTML – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target"><span>Fiji Hindi</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/HTML" title="HTML – קרואטית" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hsb mw-list-item"><a href="https://hsb.wikipedia.org/wiki/HTML" title="HTML – סורבית עילית" lang="hsb" hreflang="hsb" class="interlanguage-link-target"><span>Hornjoserbsce</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/HTML" title="HTML – הונגרית" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/HTML" title="HTML – ארמנית" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/HTML" title="HTML – ‏אינטרלינגואה" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/HTML" title="HTML – אינדונזית" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/HTML" title="HTML – איסלנדית" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/HTML" title="HTML – איטלקית" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/HyperText_Markup_Language" title="HyperText Markup Language – יפנית" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Hypertext_markup_language" title="Hypertext markup language – יאוואית" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%B0%E1%83%98%E1%83%9E%E1%83%94%E1%83%A0%E1%83%A2%E1%83%94%E1%83%A5%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9B%E1%83%90%E1%83%A0%E1%83%99%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%94%E1%83%9C%E1%83%90" title="ჰიპერტექსტური მარკირების ენა – גאורגית" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kaa mw-list-item"><a href="https://kaa.wikipedia.org/wiki/HTML" title="HTML – קארא-קלפאק" lang="kaa" hreflang="kaa" class="interlanguage-link-target"><span>Qaraqalpaqsha</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/HTML" title="HTML – קזחית" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-km mw-list-item"><a href="https://km.wikipedia.org/wiki/HTML" title="HTML – חמרית" lang="km" hreflang="km" class="interlanguage-link-target"><span>ភាសាខ្មែរ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/HTML" title="HTML – קוריאנית" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/HTML" title="HTML – כורדית" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/HTML" title="HTML – קירגיזית" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/HTML" title="HTML – לטינית" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language – לוקסמבורגית" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lfn mw-list-item"><a href="https://lfn.wikipedia.org/wiki/HTML" title="HTML – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target"><span>Lingua Franca Nova</span></a></li><li class="interlanguage-link interwiki-lij mw-list-item"><a href="https://lij.wikipedia.org/wiki/HTML" title="HTML – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target"><span>Ligure</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/HTML" title="HTML – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/HTML" title="HTML – ליטאית" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ltg mw-list-item"><a href="https://ltg.wikipedia.org/wiki/HTML" title="HTML – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target"><span>Latgaļu</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/HTML" title="HTML – לטבית" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mai mw-list-item"><a href="https://mai.wikipedia.org/wiki/%E0%A4%8F%E0%A4%9A%E0%A4%9F%E0%A4%BF%E0%A4%8F%E0%A4%AE%E0%A4%8F%E0%A4%B2" title="एचटिएमएल – מאיטילית" lang="mai" hreflang="mai" class="interlanguage-link-target"><span>मैथिली</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language – מלגשית" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/HTML" title="HTML – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/HTML" title="HTML – מקדונית" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%8E%E0%B4%9A%E0%B5%8D.%E0%B4%9F%E0%B4%BF.%E0%B4%8E%E0%B4%82.%E0%B4%8E%E0%B5%BD." title="എച്.ടി.എം.എൽ. – מליאלאם" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/HTML" title="HTML – מונגולית" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%8F%E0%A4%9A.%E0%A4%9F%E0%A5%80.%E0%A4%8F%E0%A4%AE.%E0%A4%8F%E0%A4%B2." title="एच.टी.एम.एल. – מראטהי" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/HTML" title="HTML – מלאית" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/HTML" title="HTML – בורמזית" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%8F%E0%A4%9A%E0%A4%9F%E0%A4%BF%E0%A4%8F%E0%A4%AE%E0%A4%8F%E0%A4%B2" title="एचटिएमएल – נפאלית" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-new mw-list-item"><a href="https://new.wikipedia.org/wiki/%E0%A4%8F%E0%A4%9A_%E0%A4%9F%E0%A5%80_%E0%A4%8F%E0%A4%AE%E0%A5%8D_%E0%A4%8F%E0%A4%B2%E0%A5%8D" title="एच टी एम् एल् – נווארי" lang="new" hreflang="new" class="interlanguage-link-target"><span>नेपाल भाषा</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/HyperText_Markup_Language" title="HyperText Markup Language – הולנדית" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/HTML" title="HTML – נורווגית חדשה" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/HTML" title="HTML – נורווגית ספרותית" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%90%E0%A8%9A.%E0%A8%9F%E0%A9%80.%E0%A8%90%E0%A8%AE.%E0%A8%90%E0%A8%B2" title="ਐਚ.ਟੀ.ਐਮ.ਐਲ – פנג׳אבי" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/HTML" title="HTML – פולנית" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/HTML" title="HTML – פורטוגזית" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/HyperText_Markup_Language" title="HyperText Markup Language – רומנית" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/HTML" title="HTML – רוסית" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-rue mw-list-item"><a href="https://rue.wikipedia.org/wiki/HTML" title="HTML – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target"><span>Русиньскый</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/HTML" title="HTML – סקוטית" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/%D9%87%D8%A7%D8%A6%D9%BE%D8%B1_%D9%BD%D9%8A%DA%AA%D8%B3%D9%BD_%D9%85%D8%A7%D8%B1%DA%AA_%D8%A7%D9%BE_%D9%84%D9%8A%D9%86%DA%AF%D9%88%D9%8A%D8%AC" title="هائپر ٽيڪسٽ مارڪ اپ لينگويج – סינדהית" lang="sd" hreflang="sd" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-se mw-list-item"><a href="https://se.wikipedia.org/wiki/HTML" title="HTML – סמי צפונית" lang="se" hreflang="se" class="interlanguage-link-target"><span>Davvisámegiella</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/HTML" title="HTML – סרבו-קרואטית" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-shn mw-list-item"><a href="https://shn.wikipedia.org/wiki/HTML" title="HTML – שאן" lang="shn" hreflang="shn" class="interlanguage-link-target"><span>ၽႃႇသႃႇတႆး </span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%91%E0%B6%A0%E0%B7%8A%E0%B6%A7%E0%B7%93%E0%B6%91%E0%B6%B8%E0%B7%8A%E0%B6%91%E0%B6%BD%E0%B7%8A" title="එච්ටීඑම්එල් – סינהלה" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/HTML" title="HTML – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Hypertextov%C3%BD_zna%C4%8Dkov%C3%BD_jazyk" title="Hypertextový značkový jazyk – סלובקית" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/HTML" title="HTML – סלובנית" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wikipedia.org/wiki/HTML" title="HTML – סומלית" lang="so" hreflang="so" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/HTML" title="HTML – אלבנית" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/HTML" title="HTML – סרבית" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/HTML" title="HTML – שוודית" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/HTML" title="HTML – סווהילי" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%80%E0%AE%AF%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%9F%E0%AF%81_%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF" title="மீயுரைக் குறியிடு மொழி – טמילית" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%B9%E0%B1%86%E0%B0%9A%E0%B1%8D%E2%80%8C%E0%B0%9F%E0%B0%BF%E0%B0%8E%E0%B0%AE%E0%B1%8D%E0%B0%8E%E0%B0%B2%E0%B1%8D(HTML)" title="హెచ్‌టిఎమ్ఎల్(HTML) – טלוגו" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/HTML" title="HTML – טג׳יקית" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%8A%E0%B8%97%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B9%81%E0%B8%AD%E0%B8%A5" title="เอชทีเอ็มแอล – תאית" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tk mw-list-item"><a href="https://tk.wikipedia.org/wiki/HTML" title="HTML – טורקמנית" lang="tk" hreflang="tk" class="interlanguage-link-target"><span>Türkmençe</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/HTML" title="HTML – טאגאלוג" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/HTML" title="HTML – טורקית" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/HTML" title="HTML – אוקראינית" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A7%DB%8C%DA%86_%D9%B9%DB%8C_%D8%A7%DB%8C%D9%85_%D8%A7%DB%8C%D9%84" title="ایچ ٹی ایم ایل – אורדו" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/HTML" title="HTML – אוזבקית" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/HTML" title="HTML – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/HTML" title="HTML – וייטנאמית" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/HTML" title="HTML – ווראי" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wo mw-list-item"><a href="https://wo.wikipedia.org/wiki/HTML" title="HTML – וולוף" lang="wo" hreflang="wo" class="interlanguage-link-target"><span>Wolof</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/HTML" title="HTML – סינית וו" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/HTML" title="HTML – יידיש" lang="yi" hreflang="yi" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-yo mw-list-item"><a href="https://yo.wikipedia.org/wiki/HTML" title="HTML – יורובה" lang="yo" hreflang="yo" class="interlanguage-link-target"><span>Yorùbá</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/HTML" title="HTML – סינית" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/HTML" title="HTML – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/HTML" title="HTML – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8811#sitelinks-wikipedia" title="עריכת קישורים בין־לשוניים" class="wbc-editpage">עריכת הקישורים</a></span></div>
+	</div>
+</nav>
+
+		<h1 id="firstHeading" class="firstHeading mw-first-heading">HTML</h1>
+		<div class="mw-indicators">
+		</div>
+			<div id="siteSub" class="noprint">מתוך ויקיפדיה, האנציקלופדיה החופשית</div>
+	</header>
+
+	<div id="bodyContent" class="vector-body">
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="mw-content-text" class="mw-body-content mw-content-rtl" lang="he" dir="rtl"><div class="mw-parser-output"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:HTML.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/200px-HTML.svg.png" decoding="async" width="200" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/300px-HTML.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/400px-HTML.svg.png 2x" data-file-width="266" data-file-height="310" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:HTML.svg" class="internal" title="הגדלה"></a></div>דוגמה למסמך HTML</div></div></div>
+<p><b>HTML</b> (<a href="/wiki/%D7%A8%D7%90%D7%A9%D7%99_%D7%AA%D7%99%D7%91%D7%95%D7%AA" title="ראשי תיבות">ראשי תיבות</a> ב<a href="/wiki/%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA" title="אנגלית">אנגלית</a>: <b>Hyper Text Markup Language</b>; ב<a href="/wiki/%D7%A2%D7%91%D7%A8%D7%99%D7%AA" title="עברית">עברית</a>: <b>שְׂפַת סִימָנֵי עֲרִיכָה לְתַמְלִיל-עָל</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>) <a href="/wiki/%D7%A9%D7%A4%D7%AA_%D7%AA%D7%92%D7%99%D7%95%D7%AA" class="mw-redirect" title="שפת תגיות">שפת תגיות</a> לתצוגה ועיצוב <a href="/wiki/%D7%93%D7%A3_%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98" title="דף אינטרנט">דפי אינטרנט</a> ותוכן לתצוגה ב<a href="/wiki/%D7%93%D7%A4%D7%93%D7%A4%D7%9F" title="דפדפן">דפדפן</a>. זו שפת התגיות המרכזית בעולם ה<a href="/wiki/%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98" title="אינטרנט">אינטרנט</a>, המהווה שלד למרבית עמודי התוכן באינטרנט. השפה מאפשרת עיצוב תוכן בצורה מהירה, קלה ללימוד באופן יחסי וקלה לכתיבה.
+</p><p>HTML תוכננה לעבוד על כל מחשב, מכל סוג והיא סלחנית מאוד לגבי פרטים קטנים. היא מותרת לשימוש על ידי כל מפתח אתרים, ללא צורך ברכישת <a href="/wiki/%D7%96%D7%9B%D7%95%D7%99%D7%95%D7%AA_%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D" title="זכויות יוצרים">זכויות יוצרים</a> מחברה כלשהי, והיא ניתנת לקריאה בכל סוגי המערכות. HTML מאפשרת ליצור קישורים למסמכי HTML נוספים או לסוגים שונים של נתונים. כמו כן, היא תומכת ב<a href="/wiki/%D7%9E%D7%95%D7%9C%D7%98%D7%99%D7%9E%D7%93%D7%99%D7%94" title="מולטימדיה">מולטימדיה</a>, היא מאפשרת להציג נתונים בעזרת: טקסט, צליל, תמונה, וידאו ועוד.
+HTML משמשת <a href="/wiki/%D7%AA%D7%A7%D7%9F" title="תקן">תקן</a> ברשת ה<a href="/wiki/%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98" title="אינטרנט">אינטרנט</a> וכלליה מוגדרים על ידי ארגון תקינה בינלאומי, <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a>. הגרסה הנוכחית של השפה היא <a href="/wiki/HTML5" title="HTML5">HTML5</a>.
+</p><p>HTML גם מאפשר הטמעה של <a href="/wiki/%D7%A9%D7%A4%D7%AA_%D7%AA%D7%A1%D7%A8%D7%99%D7%98" title="שפת תסריט">תסריטים</a> בדף, למשל <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>, ובכך להשפיע על התנהגות הדף במצבים שונים, שילוב שפת תכנות זו מאפשרת יצירת אינטראקטיביות בין האתר למשתמש בו.
+</p><p>קובצי HTML נשמרים בסיומות "<span dir="ltr">.htm</span>" ו-"<span dir="ltr">.html</span>".
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="he" dir="rtl"><h2 id="mw-toc-heading">תוכן עניינים</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#גרסאות"><span class="tocnumber">1</span> <span class="toctext">גרסאות</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#XHTML"><span class="tocnumber">1.1</span> <span class="toctext">XHTML</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#HTML5"><span class="tocnumber">1.2</span> <span class="toctext">HTML5</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#תגיות"><span class="tocnumber">2</span> <span class="toctext">תגיות</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#חלוקת_התגיות"><span class="tocnumber">2.1</span> <span class="toctext">חלוקת התגיות</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#מבנה_התגיות"><span class="tocnumber">2.2</span> <span class="toctext">מבנה התגיות</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#עץ_המסמך"><span class="tocnumber">2.3</span> <span class="toctext">עץ המסמך</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#DOCTYPE"><span class="tocnumber">2.4</span> <span class="toctext">DOCTYPE</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#ישויות_HTML"><span class="tocnumber">2.5</span> <span class="toctext">ישויות HTML</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#הערות"><span class="tocnumber">2.6</span> <span class="toctext">הערות</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#יצירת_דפי_HTML"><span class="tocnumber">3</span> <span class="toctext">יצירת דפי HTML</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#היסטוריה"><span class="tocnumber">4</span> <span class="toctext">היסטוריה</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#מקורות"><span class="tocnumber">5</span> <span class="toctext">מקורות</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#ראו_גם"><span class="tocnumber">6</span> <span class="toctext">ראו גם</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#קישורים_חיצוניים"><span class="tocnumber">7</span> <span class="toctext">קישורים חיצוניים</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#הערות_שוליים"><span class="tocnumber">8</span> <span class="toctext">הערות שוליים</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D7.92.D7.A8.D7.A1.D7.90.D7.95.D7.AA"></span><span class="mw-headline" id="גרסאות">גרסאות</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=1" title="עריכת פסקה: &quot;גרסאות&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;גרסאות&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:122px;"><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:HTML5_logo_and_wordmark.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" decoding="async" width="120" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png 2x" data-file-width="512" data-file-height="512" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:HTML5-logo.svg" class="internal" title="הגדלה"></a></div><a href="/wiki/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C" title="סמליל">סמליל</a> HTML5</div></div></div>
+<table class="wikitable">
+
+<tbody><tr>
+<th>גרסה
+</th>
+<th>הושק בתאריך
+</th></tr>
+<tr>
+<th><b>HTML 2.0</b>&#8207;
+</th>
+<td>נובמבר <a href="/wiki/1995" title="1995">1995</a>
+</td></tr>
+<tr>
+<th><b>HTML 3.2</b>&#8207;
+</th>
+<td><a href="/wiki/14_%D7%91%D7%99%D7%A0%D7%95%D7%90%D7%A8" title="14 בינואר">14 בינואר</a> <a href="/wiki/1997" title="1997">1997</a>
+</td></tr>
+<tr>
+<th><b>HTML 4.0</b>&#8207;
+</th>
+<td><a href="/wiki/18_%D7%91%D7%93%D7%A6%D7%9E%D7%91%D7%A8" title="18 בדצמבר">18 בדצמבר</a> <a href="/wiki/1997" title="1997">1997</a>
+</td></tr>
+<tr>
+<th><b>HTML 4.01</b>&#8207;
+</th>
+<td><a href="/wiki/24_%D7%91%D7%93%D7%A6%D7%9E%D7%91%D7%A8" title="24 בדצמבר">24 בדצמבר</a> <a href="/wiki/1999" title="1999">1999</a>
+</td></tr>
+<tr>
+<th><b>HTML5</b>&#8207;
+</th>
+<td>28 באוקטובר <a href="/wiki/2014" title="2014">2014</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="XHTML">XHTML</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=2" title="עריכת פסקה: &quot;XHTML&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;XHTML&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><img alt="Postscript-viewer-blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/25px-Postscript-viewer-blue.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/38px-Postscript-viewer-blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/50px-Postscript-viewer-blue.svg.png 2x" data-file-width="60" data-file-height="60" /> ערך מורחב – <b><a href="/wiki/XHTML" title="XHTML">XHTML</a></b></dd></dl>
+<p>לאחר יציאת תקן HTML 4.0 התמקדה עבודת הסטנדרטיזציה של ה־W3C בגרסת <a href="/wiki/XML" title="XML">XML</a> של HTML. זו נקראה <a href="/wiki/XHTML" title="XHTML">XHTML</a>. היא נועדה להיות מוגדרת בצורה יותר ברורה כדי לפשט פענוח אוטומטי של מסמך HTML על ידי תוכנות<sup>[</sup><sup><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%91%D7%99%D7%91%D7%9C%D7%99%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94" title="ויקיפדיה:ביבליוגרפיה">דרוש מקור</a>]</sup>.
+</p>
+<h3><span class="mw-headline" id="HTML5">HTML5</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=3" title="עריכת פסקה: &quot;HTML5&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;HTML5&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><img alt="Postscript-viewer-blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/25px-Postscript-viewer-blue.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/38px-Postscript-viewer-blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/50px-Postscript-viewer-blue.svg.png 2x" data-file-width="60" data-file-height="60" /> ערך מורחב – <b><a href="/wiki/HTML5" title="HTML5">HTML5</a></b></dd></dl>
+<p>בשנת <a href="/wiki/2004" title="2004">2004</a> החליטו מספר יצרני דפדפנים (<a href="/wiki/%D7%9E%D7%95%D7%96%D7%99%D7%9C%D7%94" title="מוזילה">מוזילה</a>, <a href="/wiki/%D7%90%D7%95%D7%A4%D7%A8%D7%94_(%D7%93%D7%A4%D7%93%D7%A4%D7%9F)" title="אופרה (דפדפן)">אופרה</a> ו<a href="/wiki/%D7%90%D7%A4%D7%9C" title="אפל">אפל</a>, מפתחת הדפדפן <a href="/wiki/Safari" class="mw-redirect" title="Safari">Safari</a>) להקים קבוצת עבודה, בשם <a href="/w/index.php?title=WHATWG&amp;action=edit&amp;redlink=1" class="new" title="WHATWG (הדף אינו קיים)">WHATWG</a>, שתתאם את פיתוח התקן לכיוונים אשר נדרשים באתרי אינטרנט מודרניים. קבוצת העבודה החלה לעבוד על הרחבות לתקן HTML שנודעו בשם הכללי <b>HTML5</b>. בהמשך הצטרפו לקבוצה נציגים של יצרני דפדפנים מובילים אחרים (כגון <a href="/wiki/%D7%92%D7%95%D7%92%D7%9C_(%D7%97%D7%91%D7%A8%D7%94)" title="גוגל (חברה)">גוגל</a> ו<a href="/wiki/%D7%9E%D7%99%D7%A7%D7%A8%D7%95%D7%A1%D7%95%D7%A4%D7%98" title="מיקרוסופט">מיקרוסופט</a>). התקן הגיע לשלב סופי ("המלצת W3C") בשנת <a href="/wiki/2014" title="2014">2014</a>.
+</p><p>שינוי מהותי בין HTML5 לגרסתו הקודמת, הוא תוספת תגים המתייחסים לתוכן המידע שבדף הרשת. לדוגמה - שימוש בתג DIV על מנת לתחום אלמנטים של קוד הורחב לתגים ייעודיים שנועדו לעיצוב כותרת עליונה, תחתונה, מאמר, תפריט ועוד. זאת, לצורך הקלה על יכולתן של מערכות ממוכנות, כגון מנועי חיפוש או קוראי מסך לעיוורים, להבין את התוכן המוצג. HTML 4, בהשוואה, הכיל אך ורק מידע הנוגע לאופי תצוגת דף האינטרנט ולא לתוכנו. בנוסף, נוספו תגיות המייצגות וידאו ואודיו, כדי לאפשר הפחתה של שימוש בתוספים חיצוניים על מנת להציג קובצי מולטימדיה.
+</p>
+<h2><span id=".D7.AA.D7.92.D7.99.D7.95.D7.AA"></span><span class="mw-headline" id="תגיות">תגיות</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=4" title="עריכת פסקה: &quot;תגיות&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;תגיות&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>התגיות הן הוראות בקרה שאינן מוצגות, ותפקידן לתת הוראות לדפדפן, כיצד לעצב ולסדר את התוכן במסמך.
+</p>
+<h3><span id=".D7.97.D7.9C.D7.95.D7.A7.D7.AA_.D7.94.D7.AA.D7.92.D7.99.D7.95.D7.AA"></span><span class="mw-headline" id="חלוקת_התגיות">חלוקת התגיות</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=5" title="עריכת פסקה: &quot;חלוקת התגיות&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;חלוקת התגיות&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ניתן לחלק את התגיות למספר קבוצות:
+</p>
+<ul><li>תגיות מבניות, המתארות את תפקיד המלל במסמך, כמו תגיות שקובעות את סוג הקידוד, אזורי סקריפטים, וכדומה. לדוגמה: <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;h1&gt;כלבי ים&lt;&#47;h1&gt;</code> פירושו עבור הדפדפן - הצג את המלל "כלבי ים" ככותרת ראשית.</li>
+<li>תגיות תצוגה, שתפקידן לקבוע את האופן שבו יוצג המסך או חלקים ממנו, כמו סוג <a href="/wiki/%D7%92%D7%95%D7%A4%D7%9F" title="גופן">גופן</a>, גודל גופן, <a href="/wiki/%D7%A6%D7%91%D7%A2%D7%99_%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98" class="mw-redirect" title="צבעי אינטרנט">צבע</a>, צורת האותיות וכדומה. לדוגמה: <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;b&gt;מודגש&lt;&#47;b&gt;</code> יגרום לדפדפן להציג מלל <b>מודגש</b>. תגיות מסוג זה אינן חוקיות בגרסאות האחרונות של תקן HTML, ומומלץ להשתמש ב-<a href="/wiki/CSS" class="mw-redirect" title="CSS">CSS</a> במקומן.</li>
+<li><a href="/wiki/%D7%94%D7%99%D7%A4%D7%A8_%D7%A7%D7%99%D7%A9%D7%95%D7%A8" class="mw-redirect" title="היפר קישור">קישורים</a>, שתפקידם לקשר את הדף, בלחיצת עכבר, לדפים אחרים. לדוגמה: <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;a&#32;href="http&#8207;://he.wikipedia.org"&gt;ויקיפדיה&lt;&#47;a&gt;</code> יצור קישור כזה: <a class="external text" href="https://he.wikipedia.org">ויקיפדיה</a>.</li>
+<li>תגיות המשמשות להצגת אובייקטים שונים, כגון <a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5_%D7%AA%D7%9E%D7%95%D7%A0%D7%94" title="קובץ תמונה">תמונות</a>, מדיה ופקדים. לדוגמה: <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;img&#32;src="a.png"&#32;&#47;&gt;</code> יציג את התמונה a.png בתוך המסמך.</li>
+<li>תגיות המשמשות ליצירת <a href="/wiki/%D7%98%D7%95%D7%A4%D7%A1" title="טופס">טפסים</a>.</li></ul>
+<h3><span id=".D7.9E.D7.91.D7.A0.D7.94_.D7.94.D7.AA.D7.92.D7.99.D7.95.D7.AA"></span><span class="mw-headline" id="מבנה_התגיות">מבנה התגיות</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=6" title="עריכת פסקה: &quot;מבנה התגיות&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;מבנה התגיות&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>מבנה תגית ה-HTML דומה למבנה התגית ב-<a href="/wiki/XML" title="XML">XML</a>, ואפשר לתארו בצורה כללית:
+</p><p><code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;name&#32;property="value" method&gt;תוכן&lt;&#47;name&gt;</code>
+</p><p>התגית נפתחת תמיד ב<code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;&gt;</code> שביניהם מופיע שם התגית (<b>name</b> בדוגמה), ולפעמים גם תכונות נוספות, באמצע מופיע התוכן (אם יש), וסוף התגית הוא <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;&#32;&#47;&gt;</code>, כלומר נוסף <code>/</code> לפני שם התגית.
+</p><p>במידה ותגית אינה מצריכה תוכן, כגון תגיות input,img,br - אז אין צורך להוסיף <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;&#47;name&gt;</code>, במקומו מוסיפים את הסימן <code>/</code> בסוף התגית. לדוגמה: <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;br&#32;&#47;&gt;</code>.
+</p><p>ניתן לחלק את התכונות הנוספות, שחלקן בגדר רשות ואת חלקן חובה לציין בתגיות מסוימות, לשתי קבוצות:
+</p>
+<ul><li>ה-<b>property</b> שמופיע במבנה, הוא בעל ערך (ה - <b>value</b>).</li>
+<li>ה-<b>method</b> הוא תכונה בוליאנית, שערכה בעצם ציונה או אי-ציונה.</li></ul>
+<p>אפשר לציין יותר מתכונה אחת בתגית, בהתאם לתכונות הרלוונטיות לכל תגית.
+</p>
+<h3><span id=".D7.A2.D7.A5_.D7.94.D7.9E.D7.A1.D7.9E.D7.9A"></span><span class="mw-headline" id="עץ_המסמך">עץ המסמך</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=7" title="עריכת פסקה: &quot;עץ המסמך&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;עץ המסמך&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><img alt="Postscript-viewer-blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/25px-Postscript-viewer-blue.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/38px-Postscript-viewer-blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Postscript-viewer-blue.svg/50px-Postscript-viewer-blue.svg.png 2x" data-file-width="60" data-file-height="60" /> ערך מורחב – <b><a href="/wiki/Document_Object_Model" title="Document Object Model">Document Object Model</a></b></dd></dl>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:JKDOM.SVG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JKDOM.SVG/200px-JKDOM.SVG.png" decoding="async" width="200" height="266" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JKDOM.SVG/300px-JKDOM.SVG.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JKDOM.SVG/400px-JKDOM.SVG.png 2x" data-file-width="602" data-file-height="802" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:JKDOM.SVG" class="internal" title="הגדלה"></a></div>דוגמה למדרג עצמים ב־DOM של מסמך HTML.</div></div></div>
+<p>התגיות במסמך HTML מסודרות במבנה היררכי (של <a href="/wiki/%D7%A2%D7%A5_(%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%92%D7%A8%D7%A4%D7%99%D7%9D)" title="עץ (תורת הגרפים)">עץ</a>) - המסמך מכיל ראש (head) וגוף (body). מבנה מסמך HTML בסיסי נראה כך:
+</p>
+<div class="mw-highlight mw-highlight-lang-html mw-content-ltr" dir="ltr"><pre><span></span><span class="p">&lt;</span><span class="nt">html</span><span class="p">&gt;</span>
+	<span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+		<span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>כותרת<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+	<span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+	<span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+		תוכן הדף
+	<span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</pre></div>
+<ul><li>תגית ה-<b>html</b> היא התגית הראשית, שבתוכה נכתב מסמך ה-HTML.</li>
+<li>תגית ה-<b>head</b> היא התגית שמסמלת את ראש המסמך. בתגית זו מיועדת לכותרת דף ה-HTML, למידע כללי על הדף, כותרת הדף, עיצובים ותסריטים.</li>
+<li>תגית ה-<b>body</b> היא התגית שמסמלת את גוף המסמך. בתגית זו נמצא תוכן המסמך.</li></ul>
+<p>כיוון שהמבנה היררכי, חשוב הקינון של התגיות (הסידור שלהן אחת בשנייה) לדוגמה: <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;strong&gt;עוד טקסט לדוגמה<code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;i&gt;</code>&lt;&#47;strong&gt;</code><code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;&#47;i&gt;</code> תהווה טעות, והצורה התקנית תהיה: <code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;strong&gt;<code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;i&gt;טקסט לדוגמה&lt;&#47;i&gt;</code>&lt;&#47;strong&gt;</code>.
+</p>
+<h3><span class="mw-headline" id="DOCTYPE">DOCTYPE</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=8" title="עריכת פסקה: &quot;DOCTYPE&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;DOCTYPE&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>לפי התקן, דפי אינטרנט צריכים להכיל תגית <a href="/wiki/DOCTYPE" class="mw-redirect" title="DOCTYPE">DOCTYPE</a> בתחילת הדף, על מנת להצהיר על גרסת ה-HTML של הדף. דוגמה למשפט כזה:
+<code dir="ltr" class="nowrap" style="white-space: nowrap;">&lt;!DOCTYPE&#32;HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http&#8207;://www.w3.org/TR/html4/strict.dtd"&gt;</code> המציין כי הדף נבנה באמצעות HTML 4.01.
+</p>
+<h3><span id=".D7.99.D7.A9.D7.95.D7.99.D7.95.D7.AA_HTML"></span><span class="mw-headline" id="ישויות_HTML">ישויות HTML</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=9" title="עריכת פסקה: &quot;ישויות HTML&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;ישויות HTML&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ישות HTML &#8207;(Entity reference) היא סימן טקסטי שלרוב אינו מופיע בא"ב של השפות השונות. מבנה של ישות HTML הוא כזה: <code dir="rtl">;name&amp;</code> כאשר "name" הוא שם הישות. קובץ הגדרות המסמך של HTML 4 מצהיר על 252 ישויות HTML&#8207;<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>.
+</p>
+<h3><span id=".D7.94.D7.A2.D7.A8.D7.95.D7.AA"></span><span class="mw-headline" id="הערות">הערות</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=10" title="עריכת פסקה: &quot;הערות&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;הערות&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>כמו בשפות תכנות רבות, גם ב־HTML ניתן לכתוב בקוד הערות, שמיועדות לתעד את הקוד ולעזור למתכנתים, אך אינן משפיעות על התצוגה. הערות ב־HTML מתחילות בתווים <code>&lt;!--</code> ומסתיימות בתווים <code>--&gt;</code>.
+</p>
+<h2><span id=".D7.99.D7.A6.D7.99.D7.A8.D7.AA_.D7.93.D7.A4.D7.99_HTML"></span><span class="mw-headline" id="יצירת_דפי_HTML">יצירת דפי HTML</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=11" title="עריכת פסקה: &quot;יצירת דפי HTML&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;יצירת דפי HTML&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>דפי HTML נוצרים לרוב בצורה אוטומטית על ידי <a href="/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%A0%D7%99%D7%94%D7%95%D7%9C_%D7%AA%D7%95%D7%9B%D7%9F" title="מערכת ניהול תוכן">מערכות ניהול תוכן</a>, אולם אפשר ליצור אותם גם בעזרת כל <a href="/wiki/%D7%A2%D7%95%D7%A8%D7%9A_%D7%98%D7%A7%D7%A1%D7%98" title="עורך טקסט">עורך טקסט</a> (אפילו פנקס הרשימות של מערכת <a href="/wiki/%D7%97%D7%9C%D7%95%D7%A0%D7%95%D7%AA" class="mw-redirect" title="חלונות">חלונות</a>). ישנם גם לא מעט <a href="/wiki/%D7%A2%D7%95%D7%A8%D7%9A_HTML" title="עורך HTML">עורכי טקסט שמיועדים לעריכת דפי HTML</a>. יש גם אפשרות לערוך דף HTML כמסמך מלל עשיר בממשק של <a href="/wiki/%D7%9E%D7%A2%D7%91%D7%93_%D7%AA%D7%9E%D7%9C%D7%99%D7%9C%D7%99%D7%9D" title="מעבד תמלילים">מעבד תמלילים</a> – אם בתוכנת מעבד תמלילים שיכולה לשמור את תוכנו של המסמך כמסמך HTML ואם זו מערכת ניהול תוכן שמספקת ממשק <a href="/wiki/WYSIWYG" title="WYSIWYG">WYSIWYG</a> לעריכת דפים.
+</p>
+<h2><span id=".D7.94.D7.99.D7.A1.D7.98.D7.95.D7.A8.D7.99.D7.94"></span><span class="mw-headline" id="היסטוריה">היסטוריה</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=12" title="עריכת פסקה: &quot;היסטוריה&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;היסטוריה&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"האבא" (המקור) של HTML הוא תקן שנקרא <b>SGML</b> המיועד להעברת מסמכים אלקטרוניים וניהול מסמכים. זהו תקן בעל עושר תחבירי וגמישות, אבל זו הייתה ונשארה בעייתו הגדולה ביותר. רק מתכנת בעל רקע וניסיון יכול לעצב מסמך שיעמוד בחוקי התקן. לקחו מ-SGML מספר הגדרות ותגיות, הגדירו מספר מבנים פשוטים ויצרו את HTML, שהשימוש בו התפשט במהרה. HTML נכתבת בצורה של תגיות, התחומות ב<a href="/wiki/%D7%A1%D7%95%D7%92%D7%A8%D7%99%D7%99%D7%9D" title="סוגריים">סוגריים</a> משולשים. הדפדפן איננו מציג תגיות אלו, אלא משתמש בהן כדי לפרש כיצד להציג את תוכן הדף.
+</p>
+<h2><span id=".D7.9E.D7.A7.D7.95.D7.A8.D7.95.D7.AA"></span><span class="mw-headline" id="מקורות">מקורות</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=13" title="עריכת פסקה: &quot;מקורות&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;מקורות&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>מבוא לתכנות בסביבת אינטרנט - בהוצאת הוד עמי</li>
+<li>מבוא לתכנות בסביבת אינטרנט - בהוצאת "מבט לחלונות"</li></ul>
+<h2><span id=".D7.A8.D7.90.D7.95_.D7.92.D7.9D"></span><span class="mw-headline" id="ראו_גם">ראו גם</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=14" title="עריכת פסקה: &quot;ראו גם&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;ראו גם&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/HTTP" class="mw-redirect" title="HTTP">HTTP</a> - <a href="/wiki/%D7%A4%D7%A8%D7%95%D7%98%D7%95%D7%A7%D7%95%D7%9C_%D7%AA%D7%A7%D7%A9%D7%95%D7%A8%D7%AA" title="פרוטוקול תקשורת">פרוטוקול תקשורת</a> שנועד להעברת דפי HTML על גבי <a href="/wiki/%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98" title="אינטרנט">רשת האינטרנט</a> ו<a href="/wiki/%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%90%D7%A0%D7%98" title="אינטראנט">רשתות אינטראנט</a></li>
+<li><a href="/wiki/%D7%92%D7%99%D7%9C%D7%99%D7%95%D7%A0%D7%95%D7%AA_%D7%A1%D7%92%D7%A0%D7%95%D7%9F_%D7%9E%D7%93%D7%95%D7%A8%D7%92%D7%99%D7%9D" title="גיליונות סגנון מדורגים">גיליונות סגנון מדורגים</a> (CSS)</li>
+<li><a href="/wiki/DOM" class="mw-redirect" title="DOM">DOM</a></li>
+<li><a href="/wiki/Javascript" class="mw-redirect" title="Javascript">Javascript</a> - שפת תכנות שאחד משימושיה העיקריים הוא יצירת דפי HTML דינמיים</li>
+<li><a href="/wiki/%D7%90%D7%9C%D7%9E%D7%A0%D7%98_%D7%9B%D7%AA%D7%95%D7%91%D7%AA_%D7%A7%D7%A0%D7%95%D7%A0%D7%99%D7%AA" title="אלמנט כתובת קנונית">אלמנט כתובת קנונית</a></li>
+<li><a href="/wiki/Blazor" title="Blazor">Blazor</a></li>
+<li><a href="/wiki/TinyMCE" title="TinyMCE">TinyMCE</a></li></ul>
+<h2><span id=".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D"></span><span class="mw-headline" id="קישורים_חיצוניים">קישורים חיצוניים</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=15" title="עריכת פסקה: &quot;קישורים חיצוניים&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;קישורים חיצוניים&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours sistersitebox plainlinks noprint" style="margin: 0 1em 0.5em 0;float: left;"><tbody><tr><th style="text-align:center">מיזמי <a href="/wiki/%D7%A7%D7%A8%D7%9F_%D7%95%D7%99%D7%A7%D7%99%D7%9E%D7%93%D7%99%D7%94" title="קרן ויקימדיה">קרן ויקימדיה</a></th></tr><tr><td><div class="sisterwikilinkT"><img alt="ויקימילון" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wiktionary-logo-he.png/20px-Wiktionary-logo-he.png" decoding="async" title="ויקימילון" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wiktionary-logo-he.png/30px-Wiktionary-logo-he.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wiktionary-logo-he.png/40px-Wiktionary-logo-he.png 2x" data-file-width="135" data-file-height="135" /> ערך מילוני בוויקימילון: <b><a href="https://he.wiktionary.org/wiki/HTML" class="extiw" title="wikt:HTML">HTML</a></b></div></td></tr><tr><td><div class="sisterwikilinkT"><img alt="ויקיספר" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/20px-Wikibooks-logo.svg.png" decoding="async" title="ויקיספר" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /> ספר לימוד בוויקיספר: <b><a href="https://he.wikibooks.org/wiki/HTML" class="extiw" title="b:HTML">HTML</a></b></div></td></tr><tr><td><div class="sisterwikilinkT"><img alt="ויקישיתוף" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" title="ויקישיתוף" width="20" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> תמונות ומדיה בוויקישיתוף: <b><a href="https://commons.wikimedia.org/wiki/Category:HTML" class="extiw" title="commons:Category:HTML">HTML</a></b></div></td></tr></tbody></table>
+<ul><li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:Green_globe.svg" class="image"><img alt="Green globe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/15px-Green_globe.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/23px-Green_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/30px-Green_globe.svg.png 2x" data-file-width="420" data-file-height="420" /></a> <a rel="nofollow" class="external text" href="https://www.w3.org/html/">אתר האינטרנט הרשמי</a> של HTML</li>
+<li><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:Green_globe.svg" class="image"><img alt="Green globe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/15px-Green_globe.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/23px-Green_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/30px-Green_globe.svg.png 2x" data-file-width="420" data-file-height="420" /></a> <a rel="nofollow" class="external text" href="https://html.spec.whatwg.org/multipage/">אתר האינטרנט הרשמי</a> של HTML</li>
+<li><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5:Green_globe.svg" class="image"><img alt="Green globe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/15px-Green_globe.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/23px-Green_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Green_globe.svg/30px-Green_globe.svg.png 2x" data-file-width="420" data-file-height="420" /></a> <a rel="nofollow" class="external text" href="https://w3c.github.io/html/">אתר האינטרנט הרשמי</a> של HTML</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121010185022/http://docs.webplatform.org/wiki/html">תיעוד תקן HTML</a> באתר <a rel="nofollow" class="external text" href="http://webplatform.org">WebPlatform</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.w3.org/TR/html4/">מפרט תקן HTML 4.01</a>, אתר <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a></li>
+<li><a rel="nofollow" class="external text" href="http://dev.w3.org/html5/spec/Overview.html">הצעת טיוטה של מפרט תקן HTML5</a>, אתר <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.w3c.org">אתר הבית של W3C</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mozilla.org.il/evangel.shtml">על תקינה של HTML באתר mozilla.org.il</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.w3.org/standards/webdesign/htmlcss">תקני HTML באתר ה־W3C</a></li>
+<li><a rel="nofollow" class="external text" href="https://wiki.whatwg.org/wiki/FAQ">שאלות נפוצות על WHATWG ו־HTML5</a> מאתר <a rel="nofollow" class="external text" href="https://whatwg.org/">WHATWG</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.britannica.com/technology/HTML">HTML</a>, באתר <a href="/wiki/%D7%90%D7%A0%D7%A6%D7%99%D7%A7%D7%9C%D7%95%D7%A4%D7%93%D7%99%D7%94_%D7%91%D7%A8%D7%99%D7%98%D7%A0%D7%99%D7%A7%D7%94" title="אנציקלופדיה בריטניקה">אנציקלופדיה בריטניקה</a> <span dir="rtl" class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(באנגלית)</span></li></ul>
+<h2><span id=".D7.94.D7.A2.D7.A8.D7.95.D7.AA_.D7.A9.D7.95.D7.9C.D7.99.D7.99.D7.9D"></span><span class="mw-headline" id="הערות_שוליים">הערות שוליים</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML&amp;action=edit&amp;section=16" title="עריכת פסקה: &quot;הערות שוליים&quot;">עריכת קוד מקור</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="עריכת פסקה: &quot;הערות שוליים&quot;">עריכה</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-small">     
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">^</a></span> <span class="reference-text">לפי <a href="/wiki/%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%94_%D7%9C%D7%9C%D7%A9%D7%95%D7%9F_%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA" title="האקדמיה ללשון העברית">האקדמיה ללשון העברית</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">^</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.w3.org/TR/REC-html40/sgml/entities.html">רשימה הישויות</a> המוגדרות ב-HTML 4.</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="בקרת_זהויות_15px&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q8811?uselang=he&amp;#124;עריכת_הנתון_בוויקינתונים" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="בקרת_זהויות_15px&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q8811?uselang=he&amp;#124;עריכת_הנתון_בוויקינתונים" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%91%D7%A7%D7%A8%D7%AA_%D7%96%D7%94%D7%95%D7%99%D7%95%D7%AA" title="עזרה:בקרת זהויות">בקרת זהויות</a> <a href="https://www.wikidata.org/wiki/Q8811?uselang=he" title="עריכת הנתון בוויקינתונים"><img alt="עריכת הנתון בוויקינתונים" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blue_pencil_RTL.svg/15px-Blue_pencil_RTL.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blue_pencil_RTL.svg/23px-Blue_pencil_RTL.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blue_pencil_RTL.svg/30px-Blue_pencil_RTL.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-right-width:2px;border-right-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div dir="ltr">
+<ul><li><span class="nowrap"><a href="/wiki/%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA" title="הספרייה הלאומית">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007541929605171">987007541929605171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA_%D7%A9%D7%9C_%D7%A1%D7%A4%D7%A8%D7%93" title="הספרייה הלאומית של ספרד">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX539726">XX539726</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA_%D7%A9%D7%9C_%D7%A6%D7%A8%D7%A4%D7%AA" title="הספרייה הלאומית של צרפת">BnF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12493600c">cb12493600c</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb12493600c">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%D7%A7%D7%95%D7%91%D7%A5_%D7%91%D7%A7%D7%A8%D7%94_%D7%9E%D7%A9%D7%95%D7%9C%D7%91" title="קובץ בקרה משולב">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4373477-7">4373477-7</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%D7%A9%D7%99%D7%98%D7%AA_%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%AA_%D7%94%D7%A7%D7%95%D7%A0%D7%92%D7%A8%D7%A1" title="שיטת ספריית הקונגרס">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/subjects/sh95002791">sh95002791</a></span></span></li></ul>
+</div></div></td></tr></tbody></table></div>
+<!-- 
+
+אל מלא רחמים למה זה כזה קשה?
+ -->
+</div><noscript><img src="//he.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">אוחזר מתוך "<a dir="ltr" href="https://he.wikipedia.org/w/index.php?title=HTML&amp;oldid=32645952">https://he.wikipedia.org/w/index.php?title=HTML&amp;oldid=32645952</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94" title="ויקיפדיה:קטגוריה">קטגוריות</a>: <ul><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:HTML" title="קטגוריה:HTML">HTML</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%A7%D7%A0%D7%99%D7%9D_%D7%91%D7%AA%D7%A7%D7%A9%D7%95%D7%A8%D7%AA_%D7%9E%D7%97%D7%A9%D7%91%D7%99%D7%9D" title="קטגוריה:תקנים בתקשורת מחשבים">תקנים בתקשורת מחשבים</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A4%D7%99%D7%AA%D7%95%D7%97_%D7%99%D7%99%D7%A9%D7%95%D7%9E%D7%99_%D7%95%D7%95%D7%91" title="קטגוריה:פיתוח יישומי ווב">פיתוח יישומי ווב</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A2%D7%99%D7%A6%D7%95%D7%91_%D7%90%D7%AA%D7%A8%D7%99_%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98" title="קטגוריה:עיצוב אתרי אינטרנט">עיצוב אתרי אינטרנט</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">קטגוריות מוסתרות: <ul><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D_%D7%94%D7%93%D7%95%D7%A8%D7%A9%D7%99%D7%9D_%D7%9E%D7%A7%D7%95%D7%A8%D7%95%D7%AA" title="קטגוריה:ויקיפדיה: ערכים הדורשים מקורות">ויקיפדיה: ערכים הדורשים מקורות</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%90%D7%AA%D7%A8_%D7%A8%D7%A9%D7%9E%D7%99_%E2%80%93_%D7%A2%D7%95%D7%93%D7%A3_%D7%90%D7%AA%D7%A8%D7%99%D7%9D_%D7%A8%D7%A9%D7%9E%D7%99%D7%99%D7%9D" title="קטגוריה:אתר רשמי – עודף אתרים רשמיים">אתר רשמי – עודף אתרים רשמיים</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A2%D7%A8%D7%9B%D7%99%D7%9D_%D7%A2%D7%9D_%D7%AA%D7%91%D7%A0%D7%99%D7%AA_%D7%91%D7%A8%D7%99%D7%98%D7%A0%D7%99%D7%A7%D7%94" title="קטגוריה:ערכים עם תבנית בריטניקה">ערכים עם תבנית בריטניקה</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D_%D7%A2%D7%9D_%D7%9E%D7%96%D7%94%D7%94_J9U" title="קטגוריה:ויקיפדיה: ערכים עם מזהה J9U">ויקיפדיה: ערכים עם מזהה J9U</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D_%D7%A2%D7%9D_%D7%9E%D7%96%D7%94%D7%94_BNE" title="קטגוריה:ויקיפדיה: ערכים עם מזהה BNE">ויקיפדיה: ערכים עם מזהה BNE</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D_%D7%A2%D7%9D_%D7%9E%D7%96%D7%94%D7%94_BNF" title="קטגוריה:ויקיפדיה: ערכים עם מזהה BNF">ויקיפדיה: ערכים עם מזהה BNF</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D_%D7%A2%D7%9D_%D7%9E%D7%96%D7%94%D7%94_GND" title="קטגוריה:ויקיפדיה: ערכים עם מזהה GND">ויקיפדיה: ערכים עם מזהה GND</a></li><li><a href="/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D_%D7%A2%D7%9D_%D7%9E%D7%96%D7%94%D7%94_LCCN" title="קטגוריה:ויקיפדיה: ערכים עם מזהה LCCN">ויקיפדיה: ערכים עם מזהה LCCN</a></li></ul></div></div>
+	</div>
+
+
+</main>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+	</div> 
+</div> 
+
+<div class="mw-workspace-container mw-footer-container">
+	<div class="mw-content-container">
+		
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> דף זה נערך לאחרונה ממש עכשיו</li>
+	<li id="footer-info-copyright">הטקס הזה מוגש לך על מגש של כסף <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>;
+
+ר' את <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"> תנאי השימוש לפי הרצון האישי שלי</a> לפרטים.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/he" class="extiw" title="meta:Privacy policy/he">מדיניות פרטיות</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%90%D7%95%D7%93%D7%95%D7%AA" title="ויקיפדיה:אודות">אודות ויקיפדיה</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA" title="ויקיפדיה:הבהרות משפטיות">הבהרות משפטיות</a></li>
+	<li id="footer-places-mobileview"><a href="//he.m.wikipedia.org/w/index.php?title=HTML&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">תצוגת מכשירים ניידים</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">מפתחים</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/he.wikipedia.org">סטטיסטיקות</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">הצהרה על עוגיות</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+	</div>
+</div>
+	</div> 
+</div> 
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.342","walltime":"0.412","ppvisitednodes":{"value":1583,"limit":1000000},"postexpandincludesize":{"value":13127,"limit":2097152},"templateargumentsize":{"value":987,"limit":2097152},"expansiondepth":{"value":9,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1528,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  314.766      1 -total"," 18.42%   57.969      1 תבנית:אתר_רשמי"," 16.93%   53.281     15 תבנית:תג"," 13.85%   43.589      2 תבנית:הערה"," 13.13%   41.340      1 תבנית:בריטניקה"," 11.51%   36.227      1 תבנית:בקרת_זהויות","  7.88%   24.809      1 תבנית:מיזמים","  7.87%   24.767      1 תבנית:הפניה_לערך_מורחב","  5.14%   16.193      1 תבנית:קישור_ויקינתונים","  3.11%    9.801      1 תבנית:אנגלית"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":2314325,"limit":52428800}},"cachereport":{"origin":"mw1348","timestamp":"20220408014146","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"HTML","url":"https:\/\/he.wikipedia.org\/wiki\/HTML","sameAs":"http:\/\/www.wikidata.org\/entity\/Q8811","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q8811","author":{"@type":"Organization","name":"\u05ea\u05d5\u05e8\u05de\u05d9\u05dd \u05dc\u05de\u05d9\u05d6\u05de\u05d9 \u05d5\u05d9\u05e7\u05d9\u05de\u05d3\u05d9\u05d4"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-10-25T18:34:34Z","dateModified":"2021-11-25T03:45:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/84\/HTML.svg","headline":"\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea \u05d0\u05ea\u05e8\u05d9 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":146,"wgHostname":"mw1413"});});</script>
+</body>
+</html>
+<!--       _
+       .__(.)< (MEOW)
+        \___)   
+ ~~~~~~~~~~~~~~~~~~-->
+<!-- שון סלמה המלך היה פה -->
+<!-- אז קיבלתי 100 בתרגיל? -->
