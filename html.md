@@ -412,4 +412,4 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Golden Retriever","url":"https:\/\/en.wikipedia.org\/wiki\/Golden_Retriever","sameAs":"http:\/\/www.wikidata.org\/entity\/Q38686","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q38686","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-02T00:51:18Z","dateModified":"2022-02-26T09:37:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bd\/Golden_Retriever_Dukedestiny01_drvd.jpg","headline":"dog breed"}</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1405"});});</script>
 </body>
-</html>
+</html></html>
