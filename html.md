@@ -1,4 +1,4 @@
-# shon_salame_project
+# shon_salame_pro
 <!DOCTYPE html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
@@ -170,6 +170,40 @@ The Golden Retriever is much less commonly used by sportsmen as a hunting compan
 <h1>Health</h1>
 <p>
 Golden Retrievers are a generally healthy breed; they have an average lifespan of 12 to 13 years. Irresponsible breeding to meet high demand has led to the prevalence of inherited health problems in some breed lines, including allergic skin conditions, eye problems and sometimes snappiness. These problems are rarely encountered in dogs bred from responsible breeders.
+</p>
+<h1>Notable Golden Retrievers</h1>
+<p>
+Liberty, presidential pet of President Gerald R. Ford.
+Bailey, pet of US presidential candidate Elizabeth Warren.
+Orca, PDSA Gold Medal recipient for bravery.
+</p>
+<h1>See also</h1>
+<p>
+Dogs portal
+</p>
+<h1>Explanatory notes</h1>
+<ol>
+  <li> Accounts vary as to whether Sir Dudley Marjoribanks acquired Nous in 1865 or 1868</li>
+  <li> In the 19th century, the Flat-coated Retriever was frequently called the Wavey-coated Retriever, and accordingly the Golden Retriever was often called the 'Wavy-coated Retriever, Golden'.</li>
+  <li>Charlesworth was still exhibiting and running her dogs in field trials after the Second World War, and was very outspoken in her views that Golden Retrievers should not be shown without also competing in field trials, calling any handler who did so a "show-bench lounger".</li>
+  <li> The American Kennel Club specifies that dogs should stand from 23 to 24 inches (58 to 61 cm) and bitches from 21+1⁄2 to 22+1⁄2 inches (55 to 57 cm).</li>
+</ol>
+<h1>References</h1>
+<ol>
+  <li>
+ Morris, Desmond (2001). Dogs: the ultimate dictionary of over 1,000 dog breeds. North Pomfret, VT: Trafalgar Square Publishing. pp. 288–289. ISBN 1-57076-219-8.</li>
+  <li>Hancock, David (2013). Gundogs: their past, their performance and their prospects. Ramsbury, Marlborough: The Crowood Press Ltd. pp. 102–105 & 196–197. ISBN 978-1-84797-492-1.</li>
+  <li>Wilcox, Bonnie; Walkowicz, Chris (1995). Atlas of dog breeds of the world. Neptune City, N.J.: TFH Publications. pp. 450–452.</li>
+  <li> Sampson, J.; Binns, M. M. (2006). "The Kennel Club and the early history of dog shows and breed clubs". In Ostrander, Elaine A.; Giger, Urs; Lindblad-Toh, Kerstin (eds.). The dog and its genome. Cold Spring Harbor: Cold Spring Harbor Laboratory Press. pp. 27–29. ISBN 0-87969-742-3.</li>
+  <li>Jones, Arthur F.; Hamilton, Ferelith (1971). The world encyclopedia of dogs. New York: Galahad Books. pp. 233–237. ISBN 0-88365-302-8.</li>
+</ol>
+<h1>Further reading</h1>
+<p>
+Bérengère Wambergue (2007). Le Golden retriever: étude de la race et de ses prédispositions pathologiques (Doctoral thesis, in French). Toulouse: Ecole Nationale Vétérinaire de Toulouse.
+</p>
+<h1>External links</h1>
+<p>
+ Media related to Golden Retriever at Wikimedia Commons
 </p>
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Golden_Retriever&amp;oldid=1074086119">https://en.wikipedia.org/w/index.php?title=Golden_Retriever&amp;oldid=1074086119</a>"</div></div>
