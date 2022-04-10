@@ -375,6 +375,11 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 
 </footer>
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1405"});});</script>
+<!--       _
+       .__(.)< (MEOW)
+        \___)   
+ ~~~~~~~~~~~~~~~~~~-->
+<!-- לא יצא מוצלח כמו שקיוויתי,אבל מקווה שמספיק טוב...
+אשמח להערות והצעות לשיפור! -->
 </body>
 </html></html>
