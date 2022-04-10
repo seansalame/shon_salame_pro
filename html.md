@@ -175,7 +175,7 @@ The Golden Retriever is still used as a gundog by sportsmen, both as a hunting c
 
 The Golden Retriever is much less commonly used by sportsmen as a hunting companion than the Labrador Retriever. One reason is that the breed is generally quite slow to mature, particularly compared to the Labrador; often when a Golden Retriever is still in basic training a Labrador of the same age has already completed a season of hunting. Another is its long coat, which requires more maintenance and grooming than that of the Labrador, particularly after working in muddy conditions or close cover, as their long hair is more prone to picking up dirt and burrs. More Golden Retrievers are bred as pets or for the show ring than for hunting, so it can be hard for sportsmen to find pups bred from proven working lines.
 </p>
-<h1>Health<</h1>
+<h1>Health</h1>
 <p>
 Golden Retrievers are a generally healthy breed; they have an average lifespan of 12 to 13 years. Irresponsible breeding to meet high demand has led to the prevalence of inherited health problems in some breed lines, including allergic skin conditions, eye problems and sometimes snappiness. These problems are rarely encountered in dogs bred from responsible breeders.
 </p>
